@@ -1,0 +1,8 @@
+dvc
+dvc[gdrive]
+flake8
+black
+isort
+pipreqs
+pytest
+pytest-cov
